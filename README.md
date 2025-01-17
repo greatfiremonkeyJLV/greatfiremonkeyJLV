@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: @twetterforever greatfiremonkey@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I speak french amd a little spanish! also I made that email address in... about 2002. hahaha!
+- ⚡ Fun fact: I speak french and a little spanish! Also I made that email address in... about 2002. hahaha!
 
 <!---
 greatfiremonkeyJLV/greatfiremonkeyJLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
