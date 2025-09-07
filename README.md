@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jean-Luc
+- 👋 Hi, I’m Jean-Luc. (this is a nice template from github! -JV)
 - 👀 I’m interested in learning about machine learning!
-- 🌱 I’m currently learning to code in python.
+- 🌱 I’m currently learning to code in python, and navigate a linux CLI. Ultimately to improve interfacing with more data.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: @twetterforever
+- 📫 How to reach me: holla at ya boi
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak french and a little spanish!
 
